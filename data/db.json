@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem This Is Samudram Sai Sathwik From SRKR Engineering College",
+      "author": "Sathwik",
+      "id": "1"
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Lorem This Is Sumanth Ramadugu From SRKR Engineering College",
+      "author": "Sumanth",
+      "id": "2"
+    },
+    {
+      "id": "25a1",
+      "title": "knjgtf",
+      "body": "ijub7t6",
+      "author": ""
+    }
+  ]
+}
